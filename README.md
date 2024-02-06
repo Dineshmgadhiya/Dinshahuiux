@@ -1,5 +1,5 @@
-Hi 👋 My name is Dinesh Gadhiya
-===============================
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dinesh Gadhiya
+======================================================================================================================================
 
 GRAPHIC & UIUX DESIGNER
 -----------------------
@@ -9,7 +9,10 @@ Hi, I am dinesh gadhiya, I’m a graphic and UI/UX Designer. Design UI mockups a
 * 🌍  I'm based in Surat, Gujarat, India
 * 🖥️  See my portfolio at [https://www.behance.net/montecarlo3](http://dribbble.com/DINSHAH)
 * ✉️  You can contact me at [dineshpatel27121987@gmail.com](mailto:dineshpatel27121987@gmail.com)
+* 🚀  I'm currently working on [freelancer, please contact here](http://https://wa.link/pxx51a)
 * 🧠  I'm learning protopie, after effects, advanced ux designer
+* 🤝  I'm open to collaborating on LinkedIn
+* ⚡  i am graphics designer and ui ux designer, i love design skills
 
 <a href="https://www.github.com/Dineshmgadhiya" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Dineshmgadhiya?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/dinesh92556863" target="_blank" rel="noreferrer"><img
@@ -32,11 +35,9 @@ src="https://img.shields.io/twitter/follow/dinesh92556863?logo=twitter&style=for
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Dineshmgadhiya"><img src="https://github-readme-stats.vercel.app/api?username=Dineshmgadhiya&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Dineshmgadhiya's GitHub stats" /></a>
+<a href="http://www.github.com/Dineshmgadhiya"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dineshmgadhiya&stroke=facc15&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=facc15&currStreakLabel=0891b2&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
 
-<a href="http://www.github.com/Dineshmgadhiya"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dineshmgadhiya&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/Dineshmgadhiya"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Dineshmgadhiya&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/Dineshmgadhiya"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Dineshmgadhiya&bg_color=1c1917&color=facc15&line=0891b2&point=facc15&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 ### Support Me
 
@@ -44,7 +45,4 @@ src="https://img.shields.io/twitter/follow/dinesh92556863?logo=twitter&style=for
 
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/dinshah2712"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
-</ul>     
-
-
-
+</ul>
